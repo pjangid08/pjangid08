@@ -31,7 +31,6 @@ Whether I'm building regression models in RapidMiner, cleaning café sales in SQ
 | Tableau & Power BI | Storytelling through visual dashboards   |
 | GitHub & Markdown | Documentation & publishing               |
 | Financial Modeling | Revenue planning, forecasting, KPI setup |
-|-------------------|------------------------------------------|
 
 ---
 
