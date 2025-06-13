@@ -1,6 +1,8 @@
 # Hi, I'm Priyanka Jangid 👋
 
-Business Analyst | Data Storyteller | Decision-Focused | Atlanta, GA
+---
+
+## Business Data Analyst | Data Storyteller | Decision-Focused | Atlanta, GA
 
 ---
 
