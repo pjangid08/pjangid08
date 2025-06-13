@@ -2,7 +2,7 @@
 
 ---
 
-## Business Data Analyst | Data Storyteller | Decision-Focused | Atlanta, GA
+## Business Analyst | Data Storyteller | Decision-Focused | Atlanta, GA
 
 ---
 
